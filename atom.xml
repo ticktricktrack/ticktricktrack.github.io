@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ticktricktrack.github.io/atom.xml" rel="self"/>
-  <link href="http://ticktricktrack.github.io/"/>
-  <updated>2013-05-13T01:07:14+01:00</updated>
-  <id>http://ticktricktrack.github.io/</id>
+  <link href="http://raineronrails.com/atom.xml" rel="self"/>
+  <link href="http://raineronrails.com/"/>
+  <updated>2013-05-13T01:11:07+01:00</updated>
+  <id>http://raineronrails.com/</id>
   <author>
     <name><![CDATA[Rainer Kuhn]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://ticktricktrack.github.io/blog/2013/05/13/hello-world/"/>
+    <link href="http://raineronrails.com/blog/2013/05/13/hello-world/"/>
     <updated>2013-05-13T00:47:00+01:00</updated>
-    <id>http://ticktricktrack.github.io/blog/2013/05/13/hello-world</id>
+    <id>http://raineronrails.com/blog/2013/05/13/hello-world</id>
     <content type="html"><![CDATA[<h2>Headline</h2>
 
 <p>Some text</p>
