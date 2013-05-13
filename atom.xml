@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://raineronrails.com/atom.xml" rel="self"/>
   <link href="http://raineronrails.com/"/>
-  <updated>2013-05-13T01:11:07+01:00</updated>
+  <updated>2013-05-13T01:26:27+01:00</updated>
   <id>http://raineronrails.com/</id>
   <author>
     <name><![CDATA[Rainer Kuhn]]></name>
@@ -18,15 +18,13 @@
     <link href="http://raineronrails.com/blog/2013/05/13/hello-world/"/>
     <updated>2013-05-13T00:47:00+01:00</updated>
     <id>http://raineronrails.com/blog/2013/05/13/hello-world</id>
-    <content type="html"><![CDATA[<h2>Headline</h2>
+    <content type="html"><![CDATA[<h2 id="toc_0">Headline</h2>
 
 <p>Some text</p>
 
 <p>some <code>code</code></p>
-
-<p>&#8220;`ruby
-1000.times{ &ldquo;some more code&rdquo;}</p>
-]]></content>
+<div class="highlight"><pre><code class="ruby"><span class="mi">1000</span><span class="o">.</span><span class="n">times</span><span class="p">{</span> <span class="s2">&quot;some more code&quot;</span><span class="p">}</span>
+</code></pre></div>]]></content>
   </entry>
   
 </feed>
