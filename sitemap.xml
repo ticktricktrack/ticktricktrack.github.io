@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://ticktricktrack.github.io/blog/2013/05/13/hello-world/</loc>
+        <lastmod>2013-05-13T00:48:55+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ticktricktrack.github.io/blog/archives/</loc>
+        <lastmod>2013-05-13T00:48:55+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ticktricktrack.github.io/</loc>
+        <lastmod>2013-05-13T00:48:55+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ticktricktrack.github.io/robots.txt</loc>
+        <lastmod>2013-05-13T00:47:51+01:00</lastmod>
+    </url>
+</urlset>
